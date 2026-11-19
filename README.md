@@ -94,7 +94,7 @@ I enjoy transforming business requirements and raw data into functional, scalabl
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/srikanthdanduboina18
-- LinkedIn: YOUR_LINKEDIN_URL
+- LinkedIn: https://www.linkedin.com/in/srikanth-d-75283443b/
 
 ---
 ⭐ Always learning, building and improving as a developer.
